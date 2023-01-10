@@ -12,6 +12,9 @@ This application implemented in Qt was developed to draw plots from datasets and
 - Provides useful settings for saving and loading 
 - Clear and powerful user interfaces
 
+## Usage
+The formula must be consist of numbers the data indexes and operators. This is a valid example:
+
 
 ## TODO
 
