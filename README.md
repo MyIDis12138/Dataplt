@@ -1,5 +1,5 @@
 # Dataplt
-This application implemented in Qt was developed to draw plots from datasets and provide users with useful tools. The software was designed to minimize the time it takes for users to run the software for the first time to understand how to run it. The key features of this software are intuitive user interfaces, flexible written functions, and abundant configuration controls.
+This application implemented in Qt was developed to draw plots from datasets and provide users with useful tools. The software was designed to minimize the time it takes for users to run the software for the first time to understand how to run it. The key features of this software are intuitive user interfaces, flexible written functions, and abundant configuration controls. The plotting part is implemented by [Qcustomplot](https://www.qcustomplot.com/).
 ![Overview](https://github.com/MyIDis12138/Dataplt/blob/main/images/main.png)
 
 ## Features
@@ -13,3 +13,8 @@ This application implemented in Qt was developed to draw plots from datasets and
 - Clear and powerful user interfaces
 
 
+## TODO
+
+- Save the added datasets
+- Support json file
+- Report bugs when incorrect file type is loaded
