@@ -13,7 +13,7 @@ This application implemented in Qt was developed to draw plots from datasets and
 - Clear and powerful user interfaces
 
 ## Usage
-The formula must consist of the data indexes and operators in [+,-,*,/,ln]. This is a valid example:
+The formula must consist of the data indexes and operators in [+,-,*,/,ln]. Here is a valid example:
 ![func_example](https://github.com/MyIDis12138/Dataplt/blob/main/images/cus_f.png)
 
 ## TODO
