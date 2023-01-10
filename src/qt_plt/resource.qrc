@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>file_icon.png</file>
+        <file>csv_icon.png</file>
+        <file>json_icon.jpg</file>
+        <file>tick.jpg</file>
+    </qresource>
+</RCC>

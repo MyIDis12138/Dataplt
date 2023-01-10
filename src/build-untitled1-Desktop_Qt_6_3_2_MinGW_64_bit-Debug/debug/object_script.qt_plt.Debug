@@ -1,0 +1,16 @@
+debug/config.o
+debug/delete_data_dailog.o
+debug/func_translator.o
+debug/initialize_filename.o
+debug/main.o
+debug/mainwindow.o
+debug/qcustomplot.o
+debug/settings.o
+debug/qrc_resource.o
+debug/moc_config.o
+debug/moc_delete_data_dailog.o
+debug/moc_func_translator.o
+debug/moc_initialize_filename.o
+debug/moc_mainwindow.o
+debug/moc_qcustomplot.o
+debug/moc_settings.o

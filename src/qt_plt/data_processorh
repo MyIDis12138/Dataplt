@@ -1,0 +1,21 @@
+#ifndef DATA_PROCESSORH_H
+#define DATA_PROCESSORH_H
+
+#include <QTextStream>
+#include <QFile>
+
+class data_processorh:public QWidget
+{
+    Q_OBJECT
+public:
+    explicit data_processorh(QObject *parent = nullptr);
+    int load(QString &path, QString &filename);
+    void set_delim(QChar delim);
+
+private:
+    QVector<QVector<double>*> *data = new QVector<QVector<double>*>;
+    QString err_inte(int err_num);
+    QChar delim = ',';
+};
+
+#endif // DATA_PROCESSORH_H

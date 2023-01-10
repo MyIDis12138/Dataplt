@@ -1,0 +1,16 @@
+release/config.o
+release/delete_data_dailog.o
+release/func_translator.o
+release/initialize_filename.o
+release/main.o
+release/mainwindow.o
+release/qcustomplot.o
+release/settings.o
+release/qrc_resource.o
+release/moc_config.o
+release/moc_delete_data_dailog.o
+release/moc_func_translator.o
+release/moc_initialize_filename.o
+release/moc_mainwindow.o
+release/moc_qcustomplot.o
+release/moc_settings.o
